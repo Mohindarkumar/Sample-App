@@ -11,7 +11,7 @@
 		<caption>table title and/or explanatory text</caption>
 		<thead>
 			<tr>
-				<th>header</th>
+				<th>name</th>
 			</tr>
 		</thead>
 		<tbody>
